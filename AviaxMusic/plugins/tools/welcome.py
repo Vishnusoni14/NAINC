@@ -1,4 +1,4 @@
-from ANNIEMUSIC import app
+from AviaxMusic import app
 from pyrogram import filters
 from pyrogram.errors import RPCError
 from pyrogram.types import ChatMemberUpdated, InlineKeyboardMarkup, InlineKeyboardButton
